@@ -57,14 +57,11 @@ Semantic personal portfolio page including:
 - Add interactivity with JavaScript
 - Host using GitHub Pages
 
-## 🔗 Live Demo
-
-[View Portfolio](https://yourusername.github.io/My_First_Portfolio/portfolio)
 
 ## ✍️ Author
 
-Made with ❤️ by **Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+Made with ❤️ by **Olusola Ogunwobi**  
+[GitHub](https://github.com/1olusola) | [LinkedIn](https://www.linkedin.com/in/olusola-ogunwobi-8b6759207/)
 
 ## 📜 License
 
